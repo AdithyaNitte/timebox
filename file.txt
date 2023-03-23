@@ -1,3 +1,4 @@
 plannig and research 
 design codeing
 testing
+deployment
